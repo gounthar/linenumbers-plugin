@@ -3,7 +3,8 @@
   <parent>
     <groupId>org.jenkins-ci.plugins</groupId>
     <artifactId>plugin</artifactId>
-    <version>4.24</version>
+    <version>4.51</version>
+    <relativePath/>
   </parent>
 
   <artifactId>linenumbers</artifactId>
@@ -15,7 +16,6 @@
   <url>https://plugins.jenkins.io/linenumbers</url>
 
   <properties>
-    <java.level>8</java.level>
   </properties>
 
   <developers>
